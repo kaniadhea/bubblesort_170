@@ -27,7 +27,7 @@ void input() {		//Procedure untuk input
 	}
 }
 
-void display() { //Procedure untuk mengurutkan array dengan metode bubble sort 
+void display() { //procedur untuk menampilkan hasil 
 	cout << endl;								//Output baris kosong 
 	cout << "================================" << endl;	 //Output ke layar 
 	cout << "Elemen Array yang telah tersusun" << endl;	 //Output ke layar 
@@ -38,4 +38,5 @@ void display() { //Procedure untuk mengurutkan array dengan metode bubble sort
 	cout << endl;
 }
 
+void bubbleSortArray() {		//procedure untuk mengurutkan array 
 
