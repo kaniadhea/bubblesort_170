@@ -51,6 +51,9 @@ void bubbleSortArray() {					//procedure untuk mengurutkan array dengan metode b
 }
 
 
-
-
-
+int main() {
+	input(); //Memanggil read ()
+	bubbleSortArray(); //Memanggil bubbleSortArray 
+	display(); //memanggil display()
+	return 0;
+}
